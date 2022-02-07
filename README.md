@@ -1,7 +1,7 @@
 
 # <center>自动化爬取QQ空间好友说说、日志、文章、评论、相册、图片</center>
 前端地址： <a href="https://github.com/yahai8/spider-console.git">https://github.com/yahai8/spider-console.git</a><br>
-后端地址： <a href="https://github.com/yahai8/selenium.git">https://github.com/yahai8/selenium.git</a><br>
+后端地址： <a href="https://github.com/yahai8/selenium-spider-qzone.git">https://github.com/yahai8/selenium-spider-qzone.git</a><br>
 
 ## 1.首页显示好友数量，留言条数，日志信息，共爬取文章数量
 ![](src/views/image/Dingtalk_20220207135454.jpg)
