@@ -5,7 +5,7 @@
 ![](src/views/image/Dingtalk_20220207135846.jpg)
 
 ## 3.爬取信息输入，qq号，qq密码，可自由选择爬取内容：说说、评论、留言、相册
-![](src/views/image/Dingtalk_20220207140131.jpg)
+![](src/views/image/Dingtalk_2022020714013.jpg)
 
 ## 4.好友详细信息显示，表格可扩展，可自由选择显示字段
 ![](src/views/image/Dingtalk_20220207140320.jpg)
